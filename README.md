@@ -3,4 +3,4 @@
 </p>
 ## 🐍 My Contributions
 
-![Snake animation](https://raw.githubusercontent.com/kasunsavithra9-boop//output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/kasunsavithra9-boop/Savithra/output/github-contribution-grid-snake.svg)
